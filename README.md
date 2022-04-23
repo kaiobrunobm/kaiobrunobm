@@ -5,8 +5,8 @@
 <div align="left">
   
   <a href="https://github.com/kaiobrunobm">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kaiobrunobm&show_icons=true&theme=tokyonight&icon_color=100BD4&title_color=100BD4&text_color=04D0F5&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobrunobm&layout=compact&langs_count=7&theme=tokyonight&title_color=100BD4&text_color=04D0F5&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiobrunobm&show_icons=true&theme=tokyonight&icon_color=100BD4&title_color=100BD4&text_color=04D0F5&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobrunobm&layout=compact&langs_count=7&theme=tokyonight&title_color=100BD4&text_color=04D0F5&hide_border=true"/>
     
  </div>
   
