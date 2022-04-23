@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Javascript
 
 
-<div align="left">
+<div align="center">
   
   <a href="https://github.com/kaiobrunobm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiobrunobm&show_icons=true&theme=tokyonight&icon_color=100BD4&title_color=100BD4&text_color=04D0F5&hide_border=true&include_all_commits=true&count_private=true"/>
